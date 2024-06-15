@@ -1,0 +1,14 @@
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\bin\Debug\net8.0\PTbac2.exe
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\bin\Debug\net8.0\PTbac2.deps.json
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\bin\Debug\net8.0\PTbac2.runtimeconfig.json
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\bin\Debug\net8.0\PTbac2.dll
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\bin\Debug\net8.0\PTbac2.pdb
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.AssemblyInfoInputs.cache
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.AssemblyInfo.cs
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.csproj.CoreCompileInputs.cache
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.dll
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\refint\PTbac2.dll
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.pdb
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\PTbac2.genruntimeconfig.cache
+C:\Users\DUC NAM\Documents\PTbac2\PTbac2\obj\Debug\net8.0\ref\PTbac2.dll
