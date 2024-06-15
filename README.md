@@ -6,4 +6,5 @@ Hiểu cách áp dụng công thức nghiệm và xử lý các trường hợp 
 Rèn luyện kỹ năng lập trình C# và tư duy logic.
 # Tải về
 git clone https://github.com/namnguyen97x/baitapCsharp.git
+Chạy bằng visual studio 2022
 
